@@ -1,11 +1,13 @@
 # Koi Creek
-**Intro:** Koi fish swim up streams and waterfalls with unwavering determination, overcoming any obstacles. Koi Creek is a playground to perform POCs w/ modern tools and tech stacks.
+**Intro:** Koi fish swim up streams and waterfalls with unwavering determination, overcoming any obstacles. Koi Creek is a playground to perform proof-of-concepts w/ modern tools and tech stacks.
 
 ## Planned Proof-of-Concepts
-- [ ] Rest API – MongoDB + Deno
+- [ ] Rest API – Deno + MongoDB
+- [ ] Rest API – Spring Boot + PostgreSQL
+- [ ] Rest API – Deno + PostgreSQL
 
 ## Name Inspiration
-We were inspired by the simplicity of [Deno Land](https://github.com/denoland), and wanted something equally euphonius and containing a nod to nature. Our love of Koi brought us to Koi Creek!
+We were inspired by the simplicity of [Deno Land](https://github.com/denoland), and wanted something equally euphonius while containing a nod to nature. Our love of Koi brought us to Koi Creek!
 
 In Japan, Koi fish are symbolic of good fortune. They are also associated with a strength of purpose and perseverance in the face of adversity.
 
